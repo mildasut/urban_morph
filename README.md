@@ -2,6 +2,8 @@
 
 Optimizing City Form: Building Parameters Across Urban Morphotypes and City Sizes
 
+![My Image](Urban.png)
+
 
 ## Summary
 
