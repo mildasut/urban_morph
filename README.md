@@ -1,4 +1,4 @@
-# Optimizing City Form: Building Parameters Across Urban Morphotypes and City Sizes
+# Optimizing City Form: Urban Parameters in Different Urban Morphotypes
 
 ![My Image](Urban.png)
 
